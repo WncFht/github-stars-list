@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GitHub Stars Atlas</title>
+  <meta name="description" content="Interactive graph for GitHub starred repositories">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles.css">
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+<body>
+  <div class="page-shell">
+    <header class="hero">
+      <div>
+        <p class="eyebrow">GitHub Stars Atlas</p>
+        <h1 id="page-title">Loading…</h1>
+        <p id="page-description" class="hero-description">正在加载你的 star 图谱。</p>
+      </div>
+      <div class="hero-actions">
+        <a id="readme-link" class="button ghost" href="../README.md">README</a>
+        <a class="button ghost" href="./data.json">data.json</a>
+      </div>
+    </header>
+
+    <section id="metrics" class="metrics"></section>
+
+    <section class="workspace">
+      <aside class="panel controls-panel">
+        <div class="panel-section">
+          <h2>Filters</h2>
+          <p class="muted">按主题、语言、活跃度和星标规模筛选，再拖拽节点看关系。</p>
+        </div>
+
+        <div class="panel-section">
+          <label class="control-label" for="search-input">Search</label>
+          <input id="search-input" class="search-input" type="search" placeholder="repo / topic / description">
+        </div>
+
+        <div class="panel-section grid-two">
+          <div>
+            <label class="control-label" for="category-select">Category</label>
+            <select id="category-select" class="control-select"></select>
+          </div>
+          <div>
+            <label class="control-label" for="language-select">Language</label>
+            <select id="language-select" class="control-select"></select>
+          </div>
+          <div>
+            <label class="control-label" for="freshness-select">Freshness</label>
+            <select id="freshness-select" class="control-select"></select>
+          </div>
+          <div>
+            <label class="control-label" for="stars-select">Min Stars</label>
+            <select id="stars-select" class="control-select"></select>
+          </div>
+        </div>
+
+        <div class="panel-section">
+          <button id="reset-button" class="button solid" type="button">Reset filters</button>
+        </div>
+
+        <div class="panel-section">
+          <label class="control-label">Quick categories</label>
+          <div id="category-chips" class="chips"></div>
+        </div>
+      </aside>
+
+      <main class="panel graph-panel">
+        <div class="graph-toolbar">
+          <div>
+            <h2>Force Graph</h2>
+            <p id="graph-caption" class="muted">节点大小代表仓库热度，颜色代表语义分类。</p>
+          </div>
+          <div id="legend" class="legend"></div>
+        </div>
+        <svg id="graph"></svg>
+      </main>
+
+      <aside class="panel insights-panel">
+        <div class="panel-section">
+          <h2>Visible topics</h2>
+          <ul id="topic-list" class="list compact"></ul>
+        </div>
+        <div class="panel-section">
+          <h2>Visible repos</h2>
+          <ul id="repo-list" class="list"></ul>
+        </div>
+      </aside>
+    </section>
+  </div>
+
+  <div id="tooltip" class="tooltip" hidden></div>
+
+  <script type="module" src="./app.js"></script>
+</body>
+</html>
