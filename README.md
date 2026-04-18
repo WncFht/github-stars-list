@@ -1,9 +1,9 @@
-# wncfht's Stars
+# WncFht's Stars
 
-自动更新的 GitHub star 列表，来源是 [@wncfht 的 stars](https://github.com/wncfht?tab=stars)。
+自动更新的 GitHub star 列表，来源是 [@WncFht 的 stars](https://github.com/WncFht?tab=stars)。
 
 - 总仓库数：612
-- 生成时间：2026-04-18T15:08:36.698Z
+- 生成时间：2026-04-18T15:13:01.342Z
 - 数据文件：[`data.json`](./data.json)
 
 > 这个 README 由 GitHub Actions 自动生成。
@@ -60,7 +60,7 @@
 - [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) — No description · ⭐ 6398
 - [apple/ml-mgie](https://github.com/apple/ml-mgie) — No description · ⭐ 3886
 - [apple/ml-selfreflect](https://github.com/apple/ml-selfreflect) — No description · ⭐ 41
-- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) — AI Agent Assistant that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨ · [homepage](https://astrbot.app) · ⭐ 30192
+- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) — AI Agent Assistant that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨ · [homepage](https://astrbot.app) · ⭐ 30193
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) — Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme · [homepage](https://asyncfunc.mintlify.app/) · ⭐ 15716
 - [augmentcode/augment-swebench-agent](https://github.com/augmentcode/augment-swebench-agent) — The #1 open-source SWE-bench Verified implementation · [homepage](https://www.augmentcode.com/) · ⭐ 867
 - [augustt198/latex2sympy](https://github.com/augustt198/latex2sympy) — Parse LaTeX math expressions · ⭐ 408
@@ -143,14 +143,14 @@
 - [HE-Lingfeng/R-Genie-public](https://github.com/HE-Lingfeng/R-Genie-public) — This is the official repo of R-Genie. · ⭐ 8
 - [Hello-SimpleAI/chatgpt-comparison-detection](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection) — Human ChatGPT Comparison Corpus (HC3), Detectors, and more! 🔥 · [homepage](https://arxiv.org/abs/2301.07597) · ⭐ 1347
 - [hemingkx/Spec-Bench](https://github.com/hemingkx/Spec-Bench) — Spec-Bench: A Comprehensive Benchmark and Unified Evaluation Platform for Speculative Decoding (ACL 2024 Findings) · [homepage](https://sites.google.com/view/spec-bench) · ⭐ 384
-- [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) — Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024) · [homepage](https://llamafactory.readthedocs.io) · ⭐ 70261
-- [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) — [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation" · [homepage](https://arxiv.org/abs/2410.05779) · ⭐ 33737
+- [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) — Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024) · [homepage](https://llamafactory.readthedocs.io) · ⭐ 70262
+- [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) — [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation" · [homepage](https://arxiv.org/abs/2410.05779) · ⭐ 33739
 - [HKUST-KnowComp/CritiCal](https://github.com/HKUST-KnowComp/CritiCal) — Code for CritiCal: Can Critique Help LLM Uncertainty or Confidence Calibration? · ⭐ 5
 - [HonghuiBao2000/LETTER](https://github.com/HonghuiBao2000/LETTER) — Learnable Item Tokenization for Generative Recommendation (Most Cited Paper at CIKM'24) · [homepage](https://arxiv.org/abs/2405.07314) · ⭐ 151
 - [horseee/Awesome-Efficient-LLM](https://github.com/horseee/Awesome-Efficient-LLM) — A curated list for Efficient Large Language Models · ⭐ 1987
 - [hpcgame/hpc-wiki](https://github.com/hpcgame/hpc-wiki) — Wiki fo HPC · [homepage](https://hpcwiki.io) · ⭐ 139
 - [huangkiki/dailypaper-skills](https://github.com/huangkiki/dailypaper-skills) — 用Claude Code skills打造我的论文流水线 · ⭐ 544
-- [huggingface/nanoVLM](https://github.com/huggingface/nanoVLM) — The simplest, fastest repository for training/finetuning small-sized VLMs. · ⭐ 4817
+- [huggingface/nanoVLM](https://github.com/huggingface/nanoVLM) — The simplest, fastest repository for training/finetuning small-sized VLMs. · ⭐ 4818
 - [huggingface/smolagents](https://github.com/huggingface/smolagents) — 🤗 smolagents: a barebones library for agents that think in code. · [homepage](https://huggingface.co/docs/smolagents) · ⭐ 26707
 - [illuin-tech/colpali](https://github.com/illuin-tech/colpali) — The code used to train and run inference with the ColVision models, e.g. ColPali, ColQwen2, and ColSmol. · [homepage](https://huggingface.co/vidore) · ⭐ 2596
 - [inclusionAI/AWorld](https://github.com/inclusionAI/AWorld) — Search, understand, reproduce, and improve an idea with ease · [homepage](https://www.aworldagents.com) · ⭐ 1181
@@ -167,7 +167,7 @@
 - [kuleshov-group/remdm](https://github.com/kuleshov-group/remdm) — Remasking Discrete Diffusion Models with Inference-Time Scaling · [homepage](https://guanghanwang.com/remdm) · ⭐ 72
 - [langbot-app/LangBot](https://github.com/langbot-app/LangBot) — Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Satori e.g. Integrated with ChatGPT(GPT), DeepSeek, Dify, n8n, Langflow, Coze, Claude, Gemini, MiniMax, Ollama, SiliconFlow, Moonshot, GLM, clawdbot / openclaw · [homepage](https://langbot.app) · ⭐ 15839
 - [langchain-ai/executive-ai-assistant](https://github.com/langchain-ai/executive-ai-assistant) — No description · ⭐ 2201
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) — The agent engineering platform · [homepage](https://docs.langchain.com/langchain/) · ⭐ 133956
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) — The agent engineering platform · [homepage](https://docs.langchain.com/langchain/) · ⭐ 133958
 - [langchain-ai/local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher) — Fully local web research and report writing assistant · ⭐ 9030
 - [letta-ai/letta](https://github.com/letta-ai/letta) — Letta is the platform for building stateful agents: AI with advanced memory that can learn and self-improve over time. · [homepage](https://docs.letta.com/) · ⭐ 22142
 - [liangyuwang/Tiny-DeepSpeed](https://github.com/liangyuwang/Tiny-DeepSpeed) — Tiny-DeepSpeed, a minimalistic re-implementation of the DeepSpeed library · ⭐ 51
@@ -190,14 +190,14 @@
 - [mantasu/cs224n](https://github.com/mantasu/cs224n) — Solutions for CS224n (2022) · ⭐ 73
 - [maomaocun/dLLM-cache](https://github.com/maomaocun/dLLM-cache) — Official PyTorch implementation of the paper "dLLM-Cache: Accelerating Diffusion Large Language Models with Adaptive Caching" (dLLM-Cache). · ⭐ 204
 - [marin-community/marin](https://github.com/marin-community/marin) — Open-source framework for the research and development of foundation models. · [homepage](https://marin.community) · ⭐ 855
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) — Universal memory layer for AI Agents · [homepage](https://mem0.ai) · ⭐ 53416
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) — Universal memory layer for AI Agents · [homepage](https://mem0.ai) · ⭐ 53417
 - [memodb-io/memobase](https://github.com/memodb-io/memobase) — User Profile-Based Long-Term Memory for AI Chatbot Applications.  · [homepage](https://memobase.io) · ⭐ 2687
 - [MemTensor/MemOS](https://github.com/MemTensor/MemOS) — AI memory OS for LLM and Agent systems(moltbot,clawdbot,openclaw), enabling persistent Skill memory for cross-task skill reuse and evolution. · [homepage](https://memos.openmem.net) · ⭐ 8437
 - [meta-pytorch/torchrec](https://github.com/meta-pytorch/torchrec) — Pytorch domain library for recommendation systems · [homepage](https://pytorch.org/torchrec/) · ⭐ 2529
 - [metauto-ai/GPTSwarm](https://github.com/metauto-ai/GPTSwarm) — 🐝  The First Self-Improving Agentic Solution · [homepage](https://gptswarm.org) · ⭐ 991
 - [mgiannopoulos24/Artificial-Intelligence](https://github.com/mgiannopoulos24/Artificial-Intelligence) — Solutions for the Projects of the Artificial Intelligence (CS 188) course  of UC Berkeley · ⭐ 37
 - [microsoft/graphrag](https://github.com/microsoft/graphrag) — A modular graph-based Retrieval-Augmented Generation (RAG) system · [homepage](https://microsoft.github.io/graphrag/) · ⭐ 32324
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) — Python tool for converting files and office documents to Markdown. · ⭐ 111789
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) — Python tool for converting files and office documents to Markdown. · ⭐ 111791
 - [MihaiBalint/dfsync](https://github.com/MihaiBalint/dfsync) — Intelligent remote directories and files sync · ⭐ 8
 - [mindverse/Second-Me](https://github.com/mindverse/Second-Me) — Train your AI self, amplify you, bridge the world · [homepage](https://home.second.me/) · ⭐ 15451
 - [MinkaiXu/Energy-Diffusion-LLM](https://github.com/MinkaiXu/Energy-Diffusion-LLM) — Reproduce ICLR2025 Energy-Based Diffusion Language Models for Text Generation · ⭐ 68
@@ -212,18 +212,18 @@
 - [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) — 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫 · [homepage](https://nanmicoder.github.io/MediaCrawler/) · ⭐ 48068
 - [netease-youdao/QAnything](https://github.com/netease-youdao/QAnything) — Question and Answer based on Anything. · [homepage](https://qanything.ai) · ⭐ 13954
 - [nex-agi/NexRL](https://github.com/nex-agi/NexRL) — NexRL is an ultra-loosely-coupled LLM post-training framework. · ⭐ 104
-- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) — An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms · [homepage](https://www.uupm.cc/) · ⭐ 67323
+- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) — An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms · [homepage](https://www.uupm.cc/) · ⭐ 67324
 - [nlweb-ai/NLWeb](https://github.com/nlweb-ai/NLWeb) — Main reference implementation for NLWeb, implemented in Python. · ⭐ 6183
 - [nunchaku-ai/ComfyUI-nunchaku](https://github.com/nunchaku-ai/ComfyUI-nunchaku) — ComfyUI Plugin of Nunchaku · [homepage](https://nunchaku.tech/docs/ComfyUI-nunchaku/) · ⭐ 2845
 - [nunchaku-ai/nunchaku](https://github.com/nunchaku-ai/nunchaku) — [ICLR2025 Spotlight] SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models · [homepage](https://nunchaku.tech/docs/nunchaku/) · ⭐ 3799
 - [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) — Ongoing research training transformer models at scale · [homepage](https://docs.nvidia.com/megatron-core/developer-guide/latest/get-started/quickstart.html) · ⭐ 16079
 - [NVlabs/Fast-dLLM](https://github.com/NVlabs/Fast-dLLM) — Official implementation of "Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding" · [homepage](https://nvlabs.github.io/Fast-dLLM/) · ⭐ 932
-- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) — Open Source AI Platform - AI Chat with advanced features that works with every LLM · [homepage](https://onyx.app) · ⭐ 27485
+- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) — Open Source AI Platform - AI Chat with advanced features that works with every LLM · [homepage](https://onyx.app) · ⭐ 27486
 - [open-compass/opencompass](https://github.com/open-compass/opencompass) — OpenCompass is an LLM evaluation platform, supporting a wide range of models (Llama3, Mistral, InternLM2,GPT-4,LLaMa2, Qwen,GLM, Claude, etc) over 100+ datasets. · [homepage](https://opencompass.org.cn/) · ⭐ 6894
 - [Open-Reasoner-Zero/Open-Reasoner-Zero](https://github.com/Open-Reasoner-Zero/Open-Reasoner-Zero) — Official Repo for Open-Reasoner-Zero · [homepage](https://yasminezhang.notion.site/Open-Reasoner-Zero-19e12cf72d418007b9cdebf44b0e7903) · ⭐ 2091
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) — User-friendly AI Interface (Supports Ollama, OpenAI API, ...) · [homepage](https://openwebui.com) · ⭐ 132515
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) — Financial data platform for analysts, quants and AI agents. · [homepage](https://openbb.co) · ⭐ 66038
-- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) — Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows. · [homepage](https://opendatalab.github.io/MinerU/) · ⭐ 60393
+- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) — Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows. · [homepage](https://opendatalab.github.io/MinerU/) · ⭐ 60394
 - [opendatalab/PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit) — A Comprehensive Toolkit for High-Quality PDF Content Extraction · [homepage](https://pdf-extract-kit.readthedocs.io/zh-cn/latest/index.html) · ⭐ 9596
 - [OpenDCAI/DataFlow](https://github.com/OpenDCAI/DataFlow) — Easy Data Preparation with latest LLMs-based Operators and Pipelines. · [homepage](https://OpenDCAI.github.io/DataFlow-Doc/) · ⭐ 3267
 - [OpenGVLab/OmniCorpus](https://github.com/OpenGVLab/OmniCorpus) — [ICLR 2025 Spotlight] OmniCorpus: A Unified Multimodal Corpus of 10 Billion-Level Images Interleaved with Text · [homepage](https://openreview.net/pdf?id=kwqhn2VuG4) · ⭐ 417
@@ -260,7 +260,7 @@
 - [s-sahoo/duo](https://github.com/s-sahoo/duo) — [ICML 2025] The Diffusion Duality · [homepage](https://s-sahoo.com/duo/) · ⭐ 214
 - [S1s-Z/FaithLens](https://github.com/S1s-Z/FaithLens) — [ACL'26] Code for "FaithLens: Detecting and Explaining Faithfulness Hallucination" · [homepage](https://arxiv.org/abs/2512.20182) · ⭐ 102
 - [SafeAILab/EAGLE](https://github.com/SafeAILab/EAGLE) — Official Implementation of EAGLE-1 (ICML'24), EAGLE-2 (EMNLP'24), and EAGLE-3 (NeurIPS'25). · [homepage](https://arxiv.org/pdf/2503.01840) · ⭐ 2279
-- [safishamsi/graphify](https://github.com/safishamsi/graphify) — AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or videos into a queryable knowledge graph · [homepage](https://safishamsi.github.io/penpax.ai) · ⭐ 29618
+- [safishamsi/graphify](https://github.com/safishamsi/graphify) — AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or videos into a queryable knowledge graph · [homepage](https://safishamsi.github.io/penpax.ai) · ⭐ 29622
 - [sail-sg/LongSpec](https://github.com/sail-sg/LongSpec) — [ACL 2026 (Main)] LongSpec: Long-Context Lossless Speculative Decoding with Efficient Drafting and Verification · [homepage](https://sail-sg.github.io/LongSpec/) · ⭐ 82
 - [SalesforceAIResearch/NuRL](https://github.com/SalesforceAIResearch/NuRL) — No description · ⭐ 9
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) — ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。 · [homepage](https://sansan0.github.io/TrendRadar/) · ⭐ 52054
@@ -305,7 +305,7 @@
 - [twitter/the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) — Source code for Twitter's Recommendation Algorithm · [homepage](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm) · ⭐ 10556
 - [viiika/HumanEdit](https://github.com/viiika/HumanEdit) — [CVPR 2025 AI4CC Workshop] Official Implementation of HumanEdit: A High-Quality Human-Rewarded Dataset for Instruction-based Image Editing · [homepage](https://viiika.github.io/HumanEdit/) · ⭐ 36
 - [Visual-Agent/DeepEyes](https://github.com/Visual-Agent/DeepEyes) — No description · ⭐ 1195
-- [vllm-project/vllm](https://github.com/vllm-project/vllm) — A high-throughput and memory-efficient inference and serving engine for LLMs · [homepage](https://vllm.ai) · ⭐ 77187
+- [vllm-project/vllm](https://github.com/vllm-project/vllm) — A high-throughput and memory-efficient inference and serving engine for LLMs · [homepage](https://vllm.ai) · ⭐ 77188
 - [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2) — Wan: Open and Advanced Large-Scale Video Generative Models · [homepage](https://wan.video) · ⭐ 15328
 - [WangXFng/TrieLLM](https://github.com/WangXFng/TrieLLM) — A VERY SIMPLE example to control LLMs for text generations via a Custom Trie (prefix tree).  · ⭐ 14
 - [wdndev/tiny-rag](https://github.com/wdndev/tiny-rag) — 一个很小很小的RAG系统 · ⭐ 372
@@ -332,7 +332,7 @@
 - [zai-org/GLM-V](https://github.com/zai-org/GLM-V) — GLM-4.6V/4.5V/4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning · ⭐ 2272
 - [zc-zhangchen/any-auto-register](https://github.com/zc-zhangchen/any-auto-register) — No description · ⭐ 3060
 - [zhaijianyang/MQL4GRec](https://github.com/zhaijianyang/MQL4GRec) — No description · ⭐ 49
-- [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) — CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字员工。 · [homepage](https://cowagent.ai) · ⭐ 43456
+- [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) — CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字员工。 · [homepage](https://cowagent.ai) · ⭐ 43457
 - [zhenxun-org/zhenxun_bot](https://github.com/zhenxun-org/zhenxun_bot) — 基于 Nonebot2 开发，实现多平台适配和多Bot管理的，非常可爱的绪山真寻Bot · ⭐ 3796
 - [zhiyuanyou/DeQA-Score](https://github.com/zhiyuanyou/DeQA-Score) — [CVPR 2025] Teaching Large Language Models to Regress Accurate Image Quality Scores using Score Distribution · ⭐ 229
 - [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher) — Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python. · [homepage](https://zilliztech.github.io/deep-searcher/) · ⭐ 7757
@@ -379,7 +379,7 @@
 - [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2) — Kimi K2 is the large language model series developed by Moonshot AI team · ⭐ 10630
 - [MoonshotAI/kosong](https://github.com/MoonshotAI/kosong) — The LLM abstraction layer for modern AI agent applications. · [homepage](https://moonshotai.github.io/kosong/) · ⭐ 518
 - [mosharaf/cse585](https://github.com/mosharaf/cse585) — Advanced Scalable Systems for X · ⭐ 84
-- [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. · ⭐ 56829
+- [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. · ⭐ 56851
 - [Nauxscript/Just-Vim-It](https://github.com/Nauxscript/Just-Vim-It) — A simple vim tutorial for who haven't learn \ use \ know about vim · [homepage](https://vim.nauxscript.com) · ⭐ 142
 - [NishilBalar/Awesome-LVLM-Hallucination](https://github.com/NishilBalar/Awesome-LVLM-Hallucination) — up-to-date curated list of  state-of-the-art Large vision language models hallucinations research work, papers & resources · ⭐ 299
 - [nuster1128/LLM_Agent_Memory_Survey](https://github.com/nuster1128/LLM_Agent_Memory_Survey) — No description · ⭐ 486
@@ -398,7 +398,7 @@
 - [TianxingChen/Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) — [Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide · [homepage](https://github.com/TianxingChen/Embodied-AI-Guide) · ⭐ 13051
 - [tongyx361/Awesome-LLM-Research](https://github.com/tongyx361/Awesome-LLM-Research) — Curation of resources for LLM research, screened by @tongyx361 to ensure high quality and accompanied with elaborately-written concise descriptions to help readers get the gist as quickly as possible. · [homepage](https://tongyx361.notion.site/Awesome-LLM-Research-7b999071d476409cb1fbfdd081f87086?pvs=4) · ⭐ 64
 - [underlines/awesome-ml](https://github.com/underlines/awesome-ml) — Curated list of useful LLM / Analytics / Datascience resources · ⭐ 2650
-- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) — A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. · [homepage](https://github.com/VoltAgent/voltagent) · ⭐ 58978
+- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) — A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. · [homepage](https://github.com/VoltAgent/voltagent) · ⭐ 58982
 - [WangRongsheng/awesome-LLM-resources](https://github.com/WangRongsheng/awesome-LLM-resources) — 🧑‍🚀 全世界最好的LLM资料总结（多模态生成、Agent、辅助编程、AI审稿、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型） | Summary of the world's best LLM resources.  · ⭐ 8110
 - [wangshusen/RecommenderSystem](https://github.com/wangshusen/RecommenderSystem) — No description · ⭐ 4019
 - [wuzhiyue111/MLLM-paper-reading](https://github.com/wuzhiyue111/MLLM-paper-reading) — MutiModel paper reading (Visual, Audio) · ⭐ 21
@@ -418,7 +418,7 @@
 
 ## TypeScript
 
-- [activepieces/activepieces](https://github.com/activepieces/activepieces) — AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents · [homepage](https://www.activepieces.com) · ⭐ 21766
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) — AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents · [homepage](https://www.activepieces.com) · ⭐ 21767
 - [AIDC-AI/ComfyUI-Copilot](https://github.com/AIDC-AI/ComfyUI-Copilot) — An AI-powered custom node for ComfyUI designed to enhance workflow automation and provide intelligent assistance · ⭐ 4968
 - [alanisme/deeplens](https://github.com/alanisme/deeplens) — 🔍 EVM blockchain analytics, real-time monitoring, address profiling, entity mapping, fund-path tracing · ⭐ 10
 - [antfu/skills](https://github.com/antfu/skills) — Anthony Fu's curated collection of agent skills. · ⭐ 4623
@@ -457,10 +457,10 @@
 - [LSTM-Kirigaya/Tiphareth](https://github.com/LSTM-Kirigaya/Tiphareth) — 用于将 RAG 驱动的辅助机器人接入 QQ 的系统 · ⭐ 24
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) — AI chat for any model. · [homepage](https://JoinTakeoff.com) · ⭐ 33169
 - [memfreeme/memfree](https://github.com/memfreeme/memfree) — MemFree - Hybrid AI Search Engine & AI Page Generator · [homepage](https://www.memfree.me?ref=github.com) · ⭐ 1493
-- [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) — Copilot Chat extension for VS Code · [homepage](https://code.visualstudio.com) · ⭐ 9824
+- [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) — Copilot Chat extension for VS Code · [homepage](https://code.visualstudio.com) · ⭐ 9823
 - [motiful/cc-gateway](https://github.com/motiful/cc-gateway) — AI API identity gateway — reverse proxy that normalizes device fingerprints and telemetry for privacy-preserving API proxying · ⭐ 2673
 - [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) — Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem · [homepage](https://backlog.md) · ⭐ 5360
-- [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) — Modern protocol-side framework based on NTQQ · [homepage](https://napneko.github.io) · ⭐ 8508
+- [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) — Modern protocol-side framework based on NTQQ · [homepage](https://napneko.github.io) · ⭐ 8509
 - [NeatChat/NeatChat](https://github.com/NeatChat/NeatChat) — 基于 NextChat 深度重构，一个更优雅、更强大的 AI 对话解决方案 · [homepage](https://nc.tianz.me) · ⭐ 529
 - [poco-ai/TokenArena](https://github.com/poco-ai/TokenArena) — 🔥tracking token usage in one place · [homepage](https://token.poco-ai.com) · ⭐ 77
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) — An open-source AI agent that lives in your terminal. · [homepage](https://qwenlm.github.io/qwen-code-docs/en/users/overview) · ⭐ 23492
@@ -526,7 +526,7 @@
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) — Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed · [homepage](https://markdown-it.github.io) · ⭐ 21314
 - [marktext/marktext](https://github.com/marktext/marktext) — 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. · [homepage](https://www.marktext.me) · ⭐ 55318
 - [mathjax/MathJax](https://github.com/mathjax/MathJax) — Beautiful and accessible math in all browsers · [homepage](http://www.mathjax.org/) · ⭐ 10813
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) — The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration. · [homepage](https://anythingllm.com) · ⭐ 58545
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) — The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration. · [homepage](https://anythingllm.com) · ⭐ 58546
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) — A web-based collaborative LaTeX editor · ⭐ 17581
 - [PaddleJitLab/CUDATutorial](https://github.com/PaddleJitLab/CUDATutorial) — A self-learning tutorail for CUDA High Performance Programing. · ⭐ 955
 - [Rabbit-Spec/Surge](https://github.com/Rabbit-Spec/Surge) — Surge自用配置以及模块和脚本 · ⭐ 3468
@@ -534,7 +534,7 @@
 - [Superalgos/Superalgos](https://github.com/Superalgos/Superalgos) — Free, open-source crypto trading bot, automated bitcoin / cryptocurrency trading software, algorithmic trading bots. Visually design your crypto trading bot, leveraging an integrated charting system, data-mining, backtesting, paper trading, and multi-server crypto bot deployments. · [homepage](https://www.superalgos.org) · ⭐ 5412
 - [unifiedjs/unified](https://github.com/unifiedjs/unified) — Parse, inspect, transform, and serialize content with syntax trees · [homepage](https://unifiedjs.com) · ⭐ 4971
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) — Vercel's official collection of agent skills · [homepage](https://skills.sh/vercel-labs/agent-skills) · ⭐ 25317
-- [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) — CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 · [homepage](https://pincc.ai) · ⭐ 11143
+- [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) — CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 · [homepage](https://pincc.ai) · ⭐ 11144
 - [WncFht/FreeSplatter](https://github.com/WncFht/FreeSplatter) — No description · ⭐ 2
 - [Wybxc/git-remake-guide](https://github.com/Wybxc/git-remake-guide) — Git 重开/重学指南 · [homepage](https://git-remake.wybxc.cc) · ⭐ 35
 - [yym68686/Cerebr](https://github.com/yym68686/Cerebr) — Chat with web content by AI. web demo url: https://cerebr.yym68686.top · [homepage](https://chromewebstore.google.com/detail/cerebr/kjojanemcpiamhohkcpcddpkbnciojkj) · ⭐ 332
@@ -556,12 +556,12 @@
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) — A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. · [homepage](https://www.meilisearch.com) · ⭐ 57195
 - [missdeer/ace-tool-rs](https://github.com/missdeer/ace-tool-rs) — Rust implementation of a codebase context engine that enables AI assistants to search and understand codebases using natural language queries. · ⭐ 353
 - [mos1128/ccg-gateway](https://github.com/mos1128/ccg-gateway) — 为 Claude Code、Codex、Gemini CLI 打造的效率工具，集智能网关与配置管理于一体 · ⭐ 111
-- [openai/codex](https://github.com/openai/codex) — Lightweight coding agent that runs in your terminal · ⭐ 76099
+- [openai/codex](https://github.com/openai/codex) — Lightweight coding agent that runs in your terminal · ⭐ 76101
 - [sigoden/aichat](https://github.com/sigoden/aichat) — All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more. · ⭐ 9856
 - [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) — A course of building an LSM-Tree storage engine (database) in a week. · [homepage](https://skyzh.github.io/mini-lsm/) · ⭐ 3958
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) — 🧱 secure, local, cross-platform and programmable sandboxes for AI agents · [homepage](https://docs.microsandbox.dev) · ⭐ 5522
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) — TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation. · [homepage](https://tensorzero.com) · ⭐ 11243
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) — The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. · ⭐ 185916
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) — The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. · ⭐ 185917
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) — Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted,  Open-source Ai meeting note taker for macOS & Windows.   · [homepage](https://meetily.ai) · ⭐ 11169
 
 ## Shell
@@ -628,7 +628,7 @@
 - [MLSys-Learner-Resources/Awesome-MLSys-Blogger](https://github.com/MLSys-Learner-Resources/Awesome-MLSys-Blogger) — The repository has collected a batch of noteworthy MLSys bloggers (Algorithms/Systems) · [homepage](https://mlsys-learner-resources.github.io/Awesome-MLSys-Blogger/) · ⭐ 335
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) — Repository for the book "Crafting Interpreters" · [homepage](http://www.craftinginterpreters.com/) · ⭐ 10696
 - [qiangmzsx/Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google) — 《Software Engineering at Google》的中英文对译版本 · ⭐ 4416
-- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) — from vibe coding to agentic engineering - practice makes claude perfect · ⭐ 46149
+- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) — from vibe coding to agentic engineering - practice makes claude perfect · ⭐ 46150
 - [wdndev/llm_interview_note](https://github.com/wdndev/llm_interview_note) — 主要记录大语言大模型（LLMs） 算法（应用）工程师相关的知识及面试题 · [homepage](https://wdndev.github.io/llm_interview_note) · ⭐ 13917
 
 ## Java
@@ -713,7 +713,7 @@
 
 ## Dart
 
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) — Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative. · [homepage](https://appflowy.com) · ⭐ 69787
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) — Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative. · [homepage](https://appflowy.com) · ⭐ 69788
 
 ## Haskell
 

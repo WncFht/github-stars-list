@@ -1,6 +1,6 @@
 {
-  "username": "wncfht",
-  "generated_at": "2026-04-18T15:08:36.698Z",
+  "username": "WncFht",
+  "generated_at": "2026-04-18T15:13:01.342Z",
   "repository_count": 612,
   "languages": [
     {
@@ -177,7 +177,7 @@
       "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
       "language": "Python",
       "homepage": "https://www.uupm.cc/",
-      "stargazers_count": 67323,
+      "stargazers_count": 67324,
       "forks_count": 6861,
       "open_issues_count": 112,
       "topics": [
@@ -201,7 +201,7 @@
         "uikit",
         "windsurf-ai"
       ],
-      "updated_at": "2026-04-18T15:06:08Z",
+      "updated_at": "2026-04-18T15:11:37Z",
       "pushed_at": "2026-04-03T05:08:19Z"
     },
     {
@@ -223,7 +223,7 @@
       "description": "from vibe coding to agentic engineering - practice makes claude perfect",
       "language": "HTML",
       "homepage": null,
-      "stargazers_count": 46149,
+      "stargazers_count": 46150,
       "forks_count": 4496,
       "open_issues_count": 10,
       "topics": [
@@ -241,7 +241,7 @@
         "claude-code-skills",
         "vibe-coding"
       ],
-      "updated_at": "2026-04-18T15:08:08Z",
+      "updated_at": "2026-04-18T15:09:22Z",
       "pushed_at": "2026-04-18T11:28:06Z"
     },
     {
@@ -356,7 +356,7 @@
       "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
       "language": "Python",
       "homepage": "https://onyx.app",
-      "stargazers_count": 27485,
+      "stargazers_count": 27486,
       "forks_count": 3655,
       "open_issues_count": 336,
       "topics": [
@@ -375,7 +375,7 @@
         "self-hosted",
         "vector-search"
       ],
-      "updated_at": "2026-04-18T14:52:15Z",
+      "updated_at": "2026-04-18T15:12:33Z",
       "pushed_at": "2026-04-18T10:18:56Z"
     },
     {
@@ -666,7 +666,7 @@
         "web-search",
         "webscraping"
       ],
-      "updated_at": "2026-04-18T15:00:11Z",
+      "updated_at": "2026-04-18T15:12:49Z",
       "pushed_at": "2026-04-18T06:33:32Z"
     },
     {
@@ -718,7 +718,7 @@
       "language": "Python",
       "homepage": "https://grok2api-omega.vercel.app/",
       "stargazers_count": 4321,
-      "forks_count": 1541,
+      "forks_count": 1542,
       "open_issues_count": 23,
       "topics": [
         "grok",
@@ -782,7 +782,7 @@
       "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or videos into a queryable knowledge graph",
       "language": "Python",
       "homepage": "https://safishamsi.github.io/penpax.ai",
-      "stargazers_count": 29618,
+      "stargazers_count": 29622,
       "forks_count": 3255,
       "open_issues_count": 123,
       "topics": [
@@ -795,7 +795,7 @@
         "openclaw",
         "skills"
       ],
-      "updated_at": "2026-04-18T15:06:09Z",
+      "updated_at": "2026-04-18T15:12:24Z",
       "pushed_at": "2026-04-18T09:55:42Z"
     },
     {
@@ -981,7 +981,7 @@
       "description": "A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
       "language": null,
       "homepage": "https://github.com/VoltAgent/voltagent",
-      "stargazers_count": 58978,
+      "stargazers_count": 58982,
       "forks_count": 7331,
       "open_issues_count": 271,
       "topics": [
@@ -995,7 +995,7 @@
         "vibe-coding",
         "vibe-design"
       ],
-      "updated_at": "2026-04-18T15:08:13Z",
+      "updated_at": "2026-04-18T15:12:24Z",
       "pushed_at": "2026-04-17T10:35:59Z"
     },
     {
@@ -1015,8 +1015,8 @@
         "v2ray",
         "vpn"
       ],
-      "updated_at": "2026-04-18T14:21:16Z",
-      "pushed_at": "2026-04-18T14:21:12Z"
+      "updated_at": "2026-04-18T15:09:18Z",
+      "pushed_at": "2026-04-18T15:09:15Z"
     },
     {
       "full_name": "zc-zhangchen/any-auto-register",
@@ -1263,11 +1263,11 @@
       "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.",
       "language": "Rust",
       "homepage": null,
-      "stargazers_count": 185916,
+      "stargazers_count": 185917,
       "forks_count": 108673,
       "open_issues_count": 1426,
       "topics": [],
-      "updated_at": "2026-04-18T15:07:02Z",
+      "updated_at": "2026-04-18T15:08:25Z",
       "pushed_at": "2026-04-17T04:15:47Z"
     },
     {
@@ -1567,11 +1567,11 @@
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": null,
       "homepage": null,
-      "stargazers_count": 56829,
-      "forks_count": 4850,
+      "stargazers_count": 56851,
+      "forks_count": 4854,
       "open_issues_count": 66,
       "topics": [],
-      "updated_at": "2026-04-18T15:08:12Z",
+      "updated_at": "2026-04-18T15:12:34Z",
       "pushed_at": "2026-04-15T17:47:20Z"
     },
     {
@@ -2463,7 +2463,7 @@
       "description": "CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
       "language": "JavaScript",
       "homepage": "https://pincc.ai",
-      "stargazers_count": 11143,
+      "stargazers_count": 11144,
       "forks_count": 1664,
       "open_issues_count": 314,
       "topics": [
@@ -2478,7 +2478,7 @@
         "droid2api",
         "gemini-cli"
       ],
-      "updated_at": "2026-04-18T14:41:28Z",
+      "updated_at": "2026-04-18T15:10:28Z",
       "pushed_at": "2026-04-16T19:46:51Z"
     },
     {
@@ -2874,7 +2874,7 @@
       "language": "Python",
       "homepage": "https://wan.video",
       "stargazers_count": 15328,
-      "forks_count": 1870,
+      "forks_count": 1871,
       "open_issues_count": 271,
       "topics": [
         "aigc",
@@ -3041,7 +3041,7 @@
         "typescript",
         "workflow"
       ],
-      "updated_at": "2026-04-18T14:06:58Z",
+      "updated_at": "2026-04-18T15:09:36Z",
       "pushed_at": "2026-04-17T11:34:25Z"
     },
     {
@@ -3890,7 +3890,7 @@
       "description": "Modern protocol-side framework based on NTQQ",
       "language": "TypeScript",
       "homepage": "https://napneko.github.io",
-      "stargazers_count": 8508,
+      "stargazers_count": 8509,
       "forks_count": 702,
       "open_issues_count": 5,
       "topics": [
@@ -3900,7 +3900,7 @@
         "onebot",
         "onebot11"
       ],
-      "updated_at": "2026-04-18T14:44:06Z",
+      "updated_at": "2026-04-18T15:09:04Z",
       "pushed_at": "2026-04-17T17:38:34Z"
     },
     {
@@ -4344,11 +4344,11 @@
       "description": "The simplest, fastest repository for training/finetuning small-sized VLMs.",
       "language": "Python",
       "homepage": null,
-      "stargazers_count": 4817,
+      "stargazers_count": 4818,
       "forks_count": 483,
       "open_issues_count": 55,
       "topics": [],
-      "updated_at": "2026-04-17T14:21:01Z",
+      "updated_at": "2026-04-18T15:10:46Z",
       "pushed_at": "2025-10-27T13:16:05Z"
     },
     {
@@ -4461,7 +4461,7 @@
       "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
       "language": "Python",
       "homepage": "https://llamafactory.readthedocs.io",
-      "stargazers_count": 70261,
+      "stargazers_count": 70262,
       "forks_count": 8599,
       "open_issues_count": 977,
       "topics": [
@@ -4486,7 +4486,7 @@
         "rlhf",
         "transformers"
       ],
-      "updated_at": "2026-04-18T14:52:35Z",
+      "updated_at": "2026-04-18T15:09:30Z",
       "pushed_at": "2026-04-12T00:32:15Z"
     },
     {
@@ -4797,11 +4797,11 @@
       "description": "Copilot Chat extension for VS Code",
       "language": "TypeScript",
       "homepage": "https://code.visualstudio.com",
-      "stargazers_count": 9824,
+      "stargazers_count": 9823,
       "forks_count": 1854,
       "open_issues_count": 277,
       "topics": [],
-      "updated_at": "2026-04-18T09:27:15Z",
+      "updated_at": "2026-04-18T15:08:41Z",
       "pushed_at": "2026-04-17T17:26:44Z"
     },
     {
@@ -4871,7 +4871,7 @@
       "language": "TypeScript",
       "homepage": "https://geminicli.com",
       "stargazers_count": 101669,
-      "forks_count": 13202,
+      "forks_count": 13203,
       "open_issues_count": 2947,
       "topics": [
         "ai",
@@ -5256,7 +5256,7 @@
       "description": "Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.",
       "language": "Dart",
       "homepage": "https://appflowy.com",
-      "stargazers_count": 69787,
+      "stargazers_count": 69788,
       "forks_count": 5134,
       "open_issues_count": 962,
       "topics": [
@@ -5273,7 +5273,7 @@
         "team-collaboration",
         "wiki"
       ],
-      "updated_at": "2026-04-18T14:59:42Z",
+      "updated_at": "2026-04-18T15:08:58Z",
       "pushed_at": "2026-04-08T01:36:22Z"
     },
     {
@@ -7288,7 +7288,7 @@
       "homepage": "https://www.newapi.ai",
       "stargazers_count": 27489,
       "forks_count": 5673,
-      "open_issues_count": 639,
+      "open_issues_count": 640,
       "topics": [
         "ai-gateway",
         "claude",
@@ -7447,7 +7447,7 @@
       "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
       "language": "Python",
       "homepage": "https://opendatalab.github.io/MinerU/",
-      "stargazers_count": 60393,
+      "stargazers_count": 60394,
       "forks_count": 5051,
       "open_issues_count": 13,
       "topics": [
@@ -7468,7 +7468,7 @@
         "python",
         "xlsx"
       ],
-      "updated_at": "2026-04-18T14:59:34Z",
+      "updated_at": "2026-04-18T15:09:22Z",
       "pushed_at": "2026-04-17T17:54:53Z"
     },
     {
@@ -7490,7 +7490,7 @@
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
       "homepage": null,
-      "stargazers_count": 111789,
+      "stargazers_count": 111791,
       "forks_count": 7190,
       "open_issues_count": 610,
       "topics": [
@@ -7502,7 +7502,7 @@
         "openai",
         "pdf"
       ],
-      "updated_at": "2026-04-18T15:07:16Z",
+      "updated_at": "2026-04-18T15:11:19Z",
       "pushed_at": "2026-04-15T22:26:44Z"
     },
     {
@@ -7609,8 +7609,8 @@
       "description": "The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.",
       "language": "JavaScript",
       "homepage": "https://anythingllm.com",
-      "stargazers_count": 58545,
-      "forks_count": 6334,
+      "stargazers_count": 58546,
+      "forks_count": 6335,
       "open_issues_count": 337,
       "topics": [
         "ai-agents",
@@ -7633,7 +7633,7 @@
         "vector-database",
         "web-scraping"
       ],
-      "updated_at": "2026-04-18T14:36:47Z",
+      "updated_at": "2026-04-18T15:12:55Z",
       "pushed_at": "2026-04-17T23:49:09Z"
     },
     {
@@ -7643,7 +7643,7 @@
       "language": "Python",
       "homepage": "https://openwebui.com",
       "stargazers_count": 132515,
-      "forks_count": 18810,
+      "forks_count": 18809,
       "open_issues_count": 231,
       "topics": [
         "ai",
@@ -7750,7 +7750,7 @@
         "webui"
       ],
       "updated_at": "2026-04-18T14:54:58Z",
-      "pushed_at": "2026-04-18T15:02:24Z"
+      "pushed_at": "2026-04-18T15:11:23Z"
     },
     {
       "full_name": "vercel/chatbot",
@@ -7825,7 +7825,7 @@
       "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
       "language": "TypeScript",
       "homepage": "https://www.activepieces.com",
-      "stargazers_count": 21766,
+      "stargazers_count": 21767,
       "forks_count": 3553,
       "open_issues_count": 437,
       "topics": [
@@ -7843,7 +7843,7 @@
         "workflow-automation",
         "workflows"
       ],
-      "updated_at": "2026-04-18T13:54:34Z",
+      "updated_at": "2026-04-18T15:10:00Z",
       "pushed_at": "2026-04-18T00:41:12Z"
     },
     {
@@ -8150,11 +8150,11 @@
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
       "homepage": null,
-      "stargazers_count": 76099,
+      "stargazers_count": 76101,
       "forks_count": 10805,
       "open_issues_count": 2817,
       "topics": [],
-      "updated_at": "2026-04-18T14:59:45Z",
+      "updated_at": "2026-04-18T15:10:48Z",
       "pushed_at": "2026-04-18T13:20:58Z"
     },
     {
@@ -8495,7 +8495,7 @@
       "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
       "language": "Python",
       "homepage": "https://vllm.ai",
-      "stargazers_count": 77187,
+      "stargazers_count": 77188,
       "forks_count": 15781,
       "open_issues_count": 4400,
       "topics": [
@@ -8520,7 +8520,7 @@
         "tpu",
         "transformer"
       ],
-      "updated_at": "2026-04-18T15:06:42Z",
+      "updated_at": "2026-04-18T15:09:32Z",
       "pushed_at": "2026-04-18T14:05:21Z"
     },
     {
@@ -8576,7 +8576,7 @@
       "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
       "language": "Python",
       "homepage": "https://arxiv.org/abs/2410.05779",
-      "stargazers_count": 33737,
+      "stargazers_count": 33739,
       "forks_count": 4780,
       "open_issues_count": 210,
       "topics": [
@@ -8590,7 +8590,7 @@
         "rag",
         "retrieval-augmented-generation"
       ],
-      "updated_at": "2026-04-18T14:54:37Z",
+      "updated_at": "2026-04-18T15:10:11Z",
       "pushed_at": "2026-04-18T05:16:19Z"
     },
     {
@@ -9359,8 +9359,8 @@
       "description": "CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字员工。",
       "language": "Python",
       "homepage": "https://cowagent.ai",
-      "stargazers_count": 43456,
-      "forks_count": 9948,
+      "stargazers_count": 43457,
+      "forks_count": 9949,
       "open_issues_count": 353,
       "topics": [
         "ai",
@@ -9384,8 +9384,8 @@
         "wechat",
         "weixin"
       ],
-      "updated_at": "2026-04-18T15:02:41Z",
-      "pushed_at": "2026-04-18T14:32:42Z"
+      "updated_at": "2026-04-18T15:10:04Z",
+      "pushed_at": "2026-04-18T15:09:10Z"
     },
     {
       "full_name": "Mai-with-u/MaiBot",
@@ -9448,7 +9448,7 @@
       "description": "Universal memory layer for AI Agents",
       "language": "Python",
       "homepage": "https://mem0.ai",
-      "stargazers_count": 53416,
+      "stargazers_count": 53417,
       "forks_count": 5987,
       "open_issues_count": 228,
       "topics": [
@@ -9467,7 +9467,7 @@
         "rag",
         "state-management"
       ],
-      "updated_at": "2026-04-18T14:57:22Z",
+      "updated_at": "2026-04-18T15:10:33Z",
       "pushed_at": "2026-04-18T14:39:40Z"
     },
     {
@@ -9805,8 +9805,8 @@
       "description": "The agent engineering platform",
       "language": "Python",
       "homepage": "https://docs.langchain.com/langchain/",
-      "stargazers_count": 133956,
-      "forks_count": 22137,
+      "stargazers_count": 133958,
+      "forks_count": 22138,
       "open_issues_count": 537,
       "topics": [
         "agents",
@@ -9829,7 +9829,7 @@
         "python",
         "rag"
       ],
-      "updated_at": "2026-04-18T15:00:19Z",
+      "updated_at": "2026-04-18T15:12:49Z",
       "pushed_at": "2026-04-18T08:14:57Z"
     },
     {
@@ -9881,7 +9881,7 @@
       "description": "AI Agent Assistant that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
       "language": "Python",
       "homepage": "https://astrbot.app",
-      "stargazers_count": 30192,
+      "stargazers_count": 30193,
       "forks_count": 2047,
       "open_issues_count": 1030,
       "topics": [
@@ -9902,7 +9902,7 @@
         "qqbot",
         "telegram"
       ],
-      "updated_at": "2026-04-18T14:54:06Z",
+      "updated_at": "2026-04-18T15:12:41Z",
       "pushed_at": "2026-04-18T12:37:36Z"
     },
     {
@@ -10151,7 +10151,7 @@
       "language": "Jupyter Notebook",
       "homepage": null,
       "stargazers_count": 40969,
-      "forks_count": 4524,
+      "forks_count": 4525,
       "open_issues_count": 130,
       "topics": [],
       "updated_at": "2026-04-18T15:04:14Z",
