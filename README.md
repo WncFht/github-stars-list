@@ -6,16 +6,16 @@
 - 页面源码：[`docs/index.html`](./docs/index.html)
 - 数据文件：[`data.json`](./data.json)
 - 总仓库数：684
-- 生成时间：2026-06-09T01:51:12.252Z
+- 生成时间：2026-06-10T02:02:09.635Z
 
 > 语言只作为辅助维度；主视图已经升级为按 topic 和语义分类的交互图谱。
 
 ## Highlights
 
 - 最近 30 天新增 star：24
-- 90 天内仍活跃的仓库：387
+- 90 天内仍活跃的仓库：388
 - 已归档仓库：8
-- 最热门收藏：[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) ⭐ 193,497
+- 最热门收藏：[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) ⭐ 193,537
 
 ## Top Categories
 
@@ -53,33 +53,33 @@
 
 ## Recent Stars
 
-- [lidebyte/LiDeNodeGetShow](https://github.com/lidebyte/LiDeNodeGetShow) — No description · `TypeScript` · ⭐ 16 · Starred 2026-06-08
+- [lidebyte/LiDeNodeGetShow](https://github.com/lidebyte/LiDeNodeGetShow) — No description · `TypeScript` · ⭐ 17 · Starred 2026-06-08
 - [Infinity4B/zotero-hjfy-split-reader](https://github.com/Infinity4B/zotero-hjfy-split-reader) — 用于 Zotero 8/9 的插件：获取 arXiv 论文在幻觉翻译上的译文 PDF，并把原文 PDF 与译文 PDF 以分屏方式并排打开。 Fetch HJFY translations for … · `TypeScript` · ⭐ 10 · Starred 2026-06-04
-- [ZhiYi-R/moon-bridge](https://github.com/ZhiYi-R/moon-bridge) — Moon Bridge 是一个用 Go 编写的协议转换与模型路由代理。对外暴露 OpenAI Responses API（/v1/responses），对内支持 Anthropic Messages… · `Go` · ⭐ 569 · Starred 2026-06-02
-- [datacurve-ai/pier](https://github.com/datacurve-ai/pier) — Pier is a Harbor fork built for DeepSWE, with stronger support for CLI agents in air-gapped (no-int… · `Python` · ⭐ 70 · Starred 2026-05-31 · [homepage](https://pypi.org/project/datacurve-pier)
-- [datacurve-ai/deep-swe](https://github.com/datacurve-ai/deep-swe) — Measuring frontier coding agents on original, long-horizon engineering tasks · `Shell` · ⭐ 710 · Starred 2026-05-31 · [homepage](https://deepswe.datacurve.ai/)
-- [fscarmen/sing-box](https://github.com/fscarmen/sing-box) — Sing-box 全家桶 --- 一键多协议脚本。支持 Reality、Hysteria2 、TUIC 、Trojan 、Shadowsocks 、 AnyTLS 、ShadowTLS 、 Vmes… · `Shell` · ⭐ 4,757 · Starred 2026-05-28 · Topics: anytls, argo, hysteria2, mihomo
-- [HughYau/AcademicForge](https://github.com/HughYau/AcademicForge) — One Forge, All Skills: A curated skill collection for academic writing and research. 点开即用，按需配置的一站式学… · `Shell` · ⭐ 1,574 · Starred 2026-05-28 · Topics: ai, ai-for-research, research-tool, scientific-agents · [homepage](http://hughyau.com/AcademicForge/)
-- [Ricktho1/Quant_resources](https://github.com/Ricktho1/Quant_resources) — Drop your resources for quant and related to that here · `Unknown` · ⭐ 352 · Starred 2026-05-27
+- [ZhiYi-R/moon-bridge](https://github.com/ZhiYi-R/moon-bridge) — Moon Bridge 是一个用 Go 编写的协议转换与模型路由代理。对外暴露 OpenAI Responses API（/v1/responses），对内支持 Anthropic Messages… · `Go` · ⭐ 580 · Starred 2026-06-02
+- [datacurve-ai/pier](https://github.com/datacurve-ai/pier) — Pier is a Harbor fork built for DeepSWE, with stronger support for CLI agents in air-gapped (no-int… · `Python` · ⭐ 71 · Starred 2026-05-31 · [homepage](https://pypi.org/project/datacurve-pier)
+- [datacurve-ai/deep-swe](https://github.com/datacurve-ai/deep-swe) — Measuring frontier coding agents on original, long-horizon engineering tasks · `Shell` · ⭐ 725 · Starred 2026-05-31 · [homepage](https://deepswe.datacurve.ai/)
+- [fscarmen/sing-box](https://github.com/fscarmen/sing-box) — Sing-box 全家桶 --- 一键多协议脚本。支持 Reality、Hysteria2 、TUIC 、Trojan 、Shadowsocks 、 AnyTLS 、ShadowTLS 、 Vmes… · `Shell` · ⭐ 4,769 · Starred 2026-05-28 · Topics: anytls, argo, hysteria2, mihomo
+- [HughYau/AcademicForge](https://github.com/HughYau/AcademicForge) — One Forge, All Skills: A curated skill collection for academic writing and research. 点开即用，按需配置的一站式学… · `Shell` · ⭐ 1,601 · Starred 2026-05-28 · Topics: ai, ai-for-research, research-tool, scientific-agents · [homepage](http://hughyau.com/AcademicForge/)
+- [Ricktho1/Quant_resources](https://github.com/Ricktho1/Quant_resources) — Drop your resources for quant and related to that here · `Unknown` · ⭐ 353 · Starred 2026-05-27
 - [LucindaYa/quant-resources](https://github.com/LucindaYa/quant-resources) — resources of quantitative trading · `Unknown` · ⭐ 315 · Starred 2026-05-27
-- [barter-rs/barter-rs](https://github.com/barter-rs/barter-rs) — Open-source Rust framework for building event-driven live-trading & backtesting systems · `Rust` · ⭐ 2,163 · Starred 2026-05-27 · Topics: algo-trading, algorithmic-trading, algotrading, backtesting · [homepage](https://github.com/orgs/barter-rs/repositories)
-- [apachecn/huazhang-cs-books](https://github.com/apachecn/huazhang-cs-books) — :books: 华章计算机科学丛书高清扫描 · `Unknown` · ⭐ 1,135 · Starred 2026-05-26
+- [barter-rs/barter-rs](https://github.com/barter-rs/barter-rs) — Open-source Rust framework for building event-driven live-trading & backtesting systems · `Rust` · ⭐ 2,162 · Starred 2026-05-27 · Topics: algo-trading, algorithmic-trading, algotrading, backtesting · [homepage](https://github.com/orgs/barter-rs/repositories)
+- [apachecn/huazhang-cs-books](https://github.com/apachecn/huazhang-cs-books) — :books: 华章计算机科学丛书高清扫描 · `Unknown` · ⭐ 1,137 · Starred 2026-05-26
 - [Bazaarlinkorg/LLMprobe-engine](https://github.com/Bazaarlinkorg/LLMprobe-engine) — No description · `TypeScript` · ⭐ 47 · Starred 2026-05-25
 
 ## Popular Repositories
 
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) — An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintain… · `Rust` · ⭐ 193,497 · Starred 2026-03-31
-- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) — AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to prov… · `Python` · ⭐ 184,848 · Starred 2025-02-23 · Topics: agentic-ai, agents, ai, artificial-intelligence · [homepage](https://agpt.co)
-- [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observation… · `Unknown` · ⭐ 171,392 · Starred 2026-03-07
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) — Python tool for converting files and office documents to Markdown. · `Python` · ⭐ 148,454 · Starred 2025-05-10 · Topics: autogen, autogen-extension, langchain, markdown
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) — User-friendly AI Interface (Supports Ollama, OpenAI API, ...) · `Python` · ⭐ 140,696 · Starred 2025-05-09 · Topics: ai, llm, llm-ui, llm-webui · [homepage](https://openwebui.com)
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) — FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, … · `Unknown` · ⭐ 138,965 · Starred 2025-05-05 · Topics: ai, bolt, cluely, copilot
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) — The agent engineering platform. · `Python` · ⭐ 138,835 · Starred 2025-03-12 · Topics: agents, ai, ai-agents, anthropic · [homepage](https://docs.langchain.com/langchain/)
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) — The API to search, scrape, and interact with the web at scale. 🔥 · `TypeScript` · ⭐ 130,332 · Starred 2026-04-10 · Topics: ai, ai-agents, ai-crawler, ai-scraping · [homepage](https://firecrawl.dev)
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) —  This project is dedicated to collecting high-quality macOS software and organizing them systemati… · `Swift` · ⭐ 105,435 · Starred 2025-05-04 · Topics: app, apple, application, apps · [homepage](https://git.io/macx)
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) — An open-source AI agent that brings the power of Gemini directly into your terminal. · `TypeScript` · ⭐ 105,065 · Starred 2025-06-27 · Topics: ai, ai-agents, cli, gemini · [homepage](https://geminicli.com)
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) — 🌐 Make websites accessible for AI agents. Automate tasks online with ease. · `Python` · ⭐ 97,800 · Starred 2025-03-17 · Topics: ai-agents, ai-tools, browser-automation, browser-use · [homepage](https://browser-use.com)
-- [openai/codex](https://github.com/openai/codex) — Lightweight coding agent that runs in your terminal · `Rust` · ⭐ 89,692 · Starred 2025-05-05
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) — An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintain… · `Rust` · ⭐ 193,537 · Starred 2026-03-31
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) — AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to prov… · `Python` · ⭐ 184,861 · Starred 2025-02-23 · Topics: agentic-ai, agents, ai, artificial-intelligence · [homepage](https://agpt.co)
+- [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observation… · `Unknown` · ⭐ 172,136 · Starred 2026-03-07
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) — Python tool for converting files and office documents to Markdown. · `Python` · ⭐ 149,402 · Starred 2025-05-10 · Topics: autogen, autogen-extension, langchain, markdown
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) — User-friendly AI Interface (Supports Ollama, OpenAI API, ...) · `Python` · ⭐ 140,867 · Starred 2025-05-09 · Topics: ai, llm, llm-ui, llm-webui · [homepage](https://openwebui.com)
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) — FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, … · `Unknown` · ⭐ 139,188 · Starred 2025-05-05 · Topics: ai, bolt, cluely, copilot
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) — The agent engineering platform. · `Python` · ⭐ 138,902 · Starred 2025-03-12 · Topics: agents, ai, ai-agents, anthropic · [homepage](https://docs.langchain.com/langchain/)
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) — The API to search, scrape, and interact with the web at scale. 🔥 · `TypeScript` · ⭐ 130,761 · Starred 2026-04-10 · Topics: ai, ai-agents, ai-crawler, ai-scraping · [homepage](https://firecrawl.dev)
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) —  This project is dedicated to collecting high-quality macOS software and organizing them systemati… · `Swift` · ⭐ 105,488 · Starred 2025-05-04 · Topics: app, apple, application, apps · [homepage](https://git.io/macx)
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) — An open-source AI agent that brings the power of Gemini directly into your terminal. · `TypeScript` · ⭐ 105,102 · Starred 2025-06-27 · Topics: ai, ai-agents, cli, gemini · [homepage](https://geminicli.com)
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) — 🌐 Make websites accessible for AI agents. Automate tasks online with ease. · `Python` · ⭐ 97,990 · Starred 2025-03-17 · Topics: ai-agents, ai-tools, browser-automation, browser-use · [homepage](https://browser-use.com)
+- [openai/codex](https://github.com/openai/codex) — Lightweight coding agent that runs in your terminal · `Rust` · ⭐ 89,960 · Starred 2025-05-05
 
 ## Language Snapshot
 
