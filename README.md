@@ -5,26 +5,26 @@
 - 图谱页面：[GitHub Pages](https://wncfht.github.io/github-stars-list/)
 - 页面源码：[`docs/index.html`](./docs/index.html)
 - 数据文件：[`data.json`](./data.json)
-- 总仓库数：690
-- 生成时间：2026-06-20T02:02:29.980Z
+- 总仓库数：691
+- 生成时间：2026-06-21T02:14:52.497Z
 
 > 语言只作为辅助维度；主视图已经升级为按 topic 和语义分类的交互图谱。
 
 ## Highlights
 
-- 最近 30 天新增 star：19
-- 90 天内仍活跃的仓库：385
+- 最近 30 天新增 star：20
+- 90 天内仍活跃的仓库：386
 - 已归档仓库：9
-- 最热门收藏：[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) ⭐ 194,059
+- 最热门收藏：[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) ⭐ 194,097
 
 ## Top Categories
 
 | 分类 | 数量 | 占比 | 代表 topics |
 | --- | ---: | ---: | --- |
-| AI / LLM | 367 | 53.2% | `llm`, `rag`, `openai` |
-| Learning / Research | 77 | 11.2% | `llm`, `agent`, `awesome` |
+| AI / LLM | 368 | 53.3% | `llm`, `rag`, `openai` |
+| Learning / Research | 76 | 11.0% | `llm`, `agent`, `awesome` |
 | Other | 66 | 9.6% | `quant`, `trade`, `latex` |
-| Developer Tools | 55 | 8.0% | `dotfiles`, `cli`, `vim` |
+| Developer Tools | 56 | 8.1% | `dotfiles`, `cli`, `vim` |
 | Web / UI | 55 | 8.0% | `linux`, `clash`, `electron` |
 | Data / Search | 23 | 3.3% | `search-engine`, `search`, `database` |
 | Knowledge / Content | 21 | 3.0% | `markdown`, `wiki`, `documentation` |
@@ -53,33 +53,33 @@
 
 ## Recent Stars
 
+- [469138946ba5fa/make-mihomo-envs](https://github.com/469138946ba5fa/make-mihomo-envs) — Mihomo 一键搭建配置脚本（macOS arm64）可用做网关代理 · `Shell` · ⭐ 1 · Starred 2026-06-20
 - [copicseal/copicseal](https://github.com/copicseal/copicseal) — Copicseal is an EXIF-based photo watermarking tool for adding camera settings like shutter speed an… · `Vue` · ⭐ 292 · Starred 2026-06-17 · Topics: copicseal, electron, exif, image-editor · [homepage](https://copicseal.com)
-- [FeijiangHan/PaperForge](https://github.com/FeijiangHan/PaperForge) — An active paper-reading skill that reconstructs author reasoning, explains methods mechanistically,… · `Unknown` · ⭐ 207 · Starred 2026-06-16
-- [jhljx/RecSys-Industrial-Book](https://github.com/jhljx/RecSys-Industrial-Book) — 《推荐系统：工业架构与核心算法》开源书稿 · `Unknown` · ⭐ 120 · Starred 2026-06-15 · Topics: recommendation, recommendation-algorithms, recommendation-system
-- [yyhhyyyyyy/selfproxy](https://github.com/yyhhyyyyyy/selfproxy) — 自用代理工具配置仓库，包含Mihomo(Clash)、Surge等工具的优化配置文件与使用指南。 · `JavaScript` · ⭐ 533 · Starred 2026-06-12 · Topics: clash, mihomo, sing-box, surge
-- [MetaCubeX/meta-rules-dat](https://github.com/MetaCubeX/meta-rules-dat) — rules-dat for mihomo · `Shell` · ⭐ 4,598 · Starred 2026-06-11
-- [STRYXTN/awesome-ai-research-writing](https://github.com/STRYXTN/awesome-ai-research-writing) — 来自顶尖研究机构的 AI 论文写作 Prompt 模板库与 Agent Skills 集合 ✨ · `HTML` · ⭐ 100 · Starred 2026-06-10
+- [FeijiangHan/PaperForge](https://github.com/FeijiangHan/PaperForge) — An active paper-reading skill that reconstructs author reasoning, explains methods mechanistically,… · `Unknown` · ⭐ 215 · Starred 2026-06-16
+- [jhljx/RecSys-Industrial-Book](https://github.com/jhljx/RecSys-Industrial-Book) — 《推荐系统：工业架构与核心算法》开源书稿 · `Unknown` · ⭐ 123 · Starred 2026-06-15 · Topics: generative-recommendation, generative-recommenders, recommendation, recommendation-algorithms
+- [yyhhyyyyyy/selfproxy](https://github.com/yyhhyyyyyy/selfproxy) — 自用代理工具配置仓库，包含Mihomo(Clash)、Surge等工具的优化配置文件与使用指南。 · `JavaScript` · ⭐ 534 · Starred 2026-06-12 · Topics: clash, mihomo, sing-box, surge
+- [MetaCubeX/meta-rules-dat](https://github.com/MetaCubeX/meta-rules-dat) — rules-dat for mihomo · `Shell` · ⭐ 4,604 · Starred 2026-06-11
+- [STRYXTN/awesome-ai-research-writing](https://github.com/STRYXTN/awesome-ai-research-writing) — 来自顶尖研究机构的 AI 论文写作 Prompt 模板库与 Agent Skills 集合 ✨ · `HTML` · ⭐ 101 · Starred 2026-06-10
 - [lidebyte/LiDeNodeGetShow](https://github.com/lidebyte/LiDeNodeGetShow) — No description · `TypeScript` · ⭐ 19 · Starred 2026-06-08
-- [Infinity4B/zotero-hjfy-split-reader](https://github.com/Infinity4B/zotero-hjfy-split-reader) — 用于 Zotero 8/9 的插件：获取 arXiv 论文在幻觉翻译上的译文 PDF，并把原文 PDF 与译文 PDF 以分屏方式并排打开。 Fetch HJFY translations for … · `TypeScript` · ⭐ 11 · Starred 2026-06-04
-- [ZhiYi-R/moon-bridge](https://github.com/ZhiYi-R/moon-bridge) — Moon Bridge 是一个用 Go 编写的协议转换与模型路由代理。对外暴露 OpenAI Responses API（/v1/responses），对内支持 Anthropic Messages… · `Go` · ⭐ 640 · Starred 2026-06-02
+- [Infinity4B/zotero-hjfy-split-reader](https://github.com/Infinity4B/zotero-hjfy-split-reader) — 用于 Zotero 8/9 的插件：获取 arXiv 论文在幻觉翻译上的译文 PDF，并把原文 PDF 与译文 PDF 以分屏方式并排打开。 Fetch HJFY translations for … · `TypeScript` · ⭐ 12 · Starred 2026-06-04
+- [ZhiYi-R/moon-bridge](https://github.com/ZhiYi-R/moon-bridge) — Moon Bridge 是一个用 Go 编写的协议转换与模型路由代理。对外暴露 OpenAI Responses API（/v1/responses），对内支持 Anthropic Messages… · `Go` · ⭐ 642 · Starred 2026-06-02
 - [datacurve-ai/pier](https://github.com/datacurve-ai/pier) — Pier is a Harbor fork built for DeepSWE, with stronger support for CLI agents in air-gapped (no-int… · `Python` · ⭐ 88 · Starred 2026-05-31 · [homepage](https://pypi.org/project/datacurve-pier)
-- [datacurve-ai/deep-swe](https://github.com/datacurve-ai/deep-swe) — Measuring frontier coding agents on original, long-horizon engineering tasks · `Python` · ⭐ 871 · Starred 2026-05-31 · [homepage](https://deepswe.datacurve.ai/)
-- [fscarmen/sing-box](https://github.com/fscarmen/sing-box) — Sing-box 全家桶 --- 一键多协议脚本。支持 Reality、Hysteria2 、TUIC 、Trojan 、Shadowsocks 、 AnyTLS 、ShadowTLS 、 Vmes… · `Shell` · ⭐ 4,851 · Starred 2026-05-28 · Topics: anytls, argo, hysteria2, mihomo
+- [datacurve-ai/deep-swe](https://github.com/datacurve-ai/deep-swe) — Measuring frontier coding agents on original, long-horizon engineering tasks · `Python` · ⭐ 878 · Starred 2026-05-31 · [homepage](https://deepswe.datacurve.ai/)
 
 ## Popular Repositories
 
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) — An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintain… · `Rust` · ⭐ 194,059 · Starred 2026-03-31
-- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) — AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to prov… · `Python` · ⭐ 185,040 · Starred 2025-02-23 · Topics: agentic-ai, agents, ai, artificial-intelligence · [homepage](https://agpt.co)
-- [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observation… · `Unknown` · ⭐ 178,839 · Starred 2026-03-07
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) — Python tool for converting files and office documents to Markdown. · `Python` · ⭐ 156,093 · Starred 2025-05-10 · Topics: autogen, autogen-extension, langchain, markdown
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) — User-friendly AI Interface (Supports Ollama, OpenAI API, ...) · `Python` · ⭐ 142,294 · Starred 2025-05-09 · Topics: ai, llm, llm-ui, llm-webui · [homepage](https://openwebui.com)
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) — FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, … · `Unknown` · ⭐ 140,902 · Starred 2025-05-05 · Topics: ai, bolt, cluely, copilot
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) — The agent engineering platform. · `Python` · ⭐ 139,721 · Starred 2025-03-12 · Topics: agents, ai, ai-agents, anthropic · [homepage](https://docs.langchain.com/langchain/)
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) — The API to search, scrape, and interact with the web at scale. 🔥 · `TypeScript` · ⭐ 135,348 · Starred 2026-04-10 · Topics: ai, ai-agents, ai-crawler, ai-scraping · [homepage](https://firecrawl.dev)
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) —  This project is dedicated to collecting high-quality macOS software and organizing them systemati… · `Swift` · ⭐ 106,003 · Starred 2025-05-04 · Topics: app, apple, application, apps · [homepage](https://git.io/macx)
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) — An open-source AI agent that brings the power of Gemini directly into your terminal. · `TypeScript` · ⭐ 105,416 · Starred 2025-06-27 · Topics: ai, ai-agents, cli, gemini · [homepage](https://geminicli.com)
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) — 🌐 Make websites accessible for AI agents. Automate tasks online with ease. · `Python` · ⭐ 99,617 · Starred 2025-03-17 · Topics: ai-agents, ai-tools, browser-automation, browser-use · [homepage](https://browser-use.com)
-- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) — An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms · `Python` · ⭐ 93,965 · Starred 2026-04-15 · Topics: ai-skills, antigravity, claude, claude-code · [homepage](https://www.uupm.cc/)
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) — An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintain… · `Rust` · ⭐ 194,097 · Starred 2026-03-31
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) — AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to prov… · `Python` · ⭐ 185,047 · Starred 2025-02-23 · Topics: agentic-ai, agents, ai, artificial-intelligence · [homepage](https://agpt.co)
+- [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observation… · `Unknown` · ⭐ 179,266 · Starred 2026-03-07
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) — Python tool for converting files and office documents to Markdown. · `Python` · ⭐ 156,548 · Starred 2025-05-10 · Topics: autogen, autogen-extension, langchain, markdown
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) — User-friendly AI Interface (Supports Ollama, OpenAI API, ...) · `Python` · ⭐ 142,426 · Starred 2025-05-09 · Topics: ai, llm, llm-ui, llm-webui · [homepage](https://openwebui.com)
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) — FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, … · `Unknown` · ⭐ 140,936 · Starred 2025-05-05 · Topics: ai, bolt, cluely, copilot
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) — The agent engineering platform. · `Python` · ⭐ 139,775 · Starred 2025-03-12 · Topics: agents, ai, ai-agents, anthropic · [homepage](https://docs.langchain.com/langchain/)
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) — The API to search, scrape, and interact with the web at scale. 🔥 · `TypeScript` · ⭐ 135,823 · Starred 2026-04-10 · Topics: ai, ai-agents, ai-crawler, ai-scraping · [homepage](https://firecrawl.dev)
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) —  This project is dedicated to collecting high-quality macOS software and organizing them systemati… · `Swift` · ⭐ 106,044 · Starred 2025-05-04 · Topics: app, apple, application, apps · [homepage](https://git.io/macx)
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) — An open-source AI agent that brings the power of Gemini directly into your terminal. · `TypeScript` · ⭐ 105,451 · Starred 2025-06-27 · Topics: ai, ai-agents, cli, gemini · [homepage](https://geminicli.com)
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) — 🌐 Make websites accessible for AI agents. Automate tasks online with ease. · `Python` · ⭐ 99,750 · Starred 2025-03-17 · Topics: ai-agents, ai-tools, browser-automation, browser-use · [homepage](https://browser-use.com)
+- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) — An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms · `Python` · ⭐ 94,383 · Starred 2026-04-15 · Topics: ai-skills, antigravity, claude, claude-code · [homepage](https://www.uupm.cc/)
 
 ## Language Snapshot
 
@@ -90,7 +90,7 @@
 - **JavaScript**: 29
 - **Jupyter Notebook**: 29
 - **Go**: 22
-- **Shell**: 21
+- **Shell**: 22
 - **C++**: 14
 - **HTML**: 12
 - **Swift**: 8
