@@ -6,16 +6,16 @@
 - 页面源码：[`docs/index.html`](./docs/index.html)
 - 数据文件：[`data.json`](./data.json)
 - 总仓库数：707
-- 生成时间：2026-09-16T01:56:43.289Z
+- 生成时间：2026-09-17T02:00:35.854Z
 
 > 语言只作为辅助维度；主视图已经升级为按 topic 和语义分类的交互图谱。
 
 ## Highlights
 
-- 最近 30 天新增 star：11
+- 最近 30 天新增 star：10
 - 90 天内仍活跃的仓库：360
 - 已归档仓库：10
-- 最热门收藏：[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) ⭐ 213,227
+- 最热门收藏：[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) ⭐ 213,461
 
 ## Top Categories
 
@@ -24,8 +24,8 @@
 | AI / LLM | 375 | 53.0% | `llm`, `rag`, `openai` |
 | Learning / Research | 79 | 11.2% | `llm`, `agent`, `large-language-models` |
 | Other | 70 | 9.9% | `quant`, `trade`, `latex` |
-| Web / UI | 56 | 7.9% | `latex`, `linux`, `clash` |
-| Developer Tools | 54 | 7.6% | `dotfiles`, `cli`, `terminal` |
+| Developer Tools | 55 | 7.8% | `dotfiles`, `cli`, `terminal` |
+| Web / UI | 55 | 7.8% | `latex`, `linux`, `clash` |
 | Data / Search | 23 | 3.3% | `search-engine`, `search`, `database` |
 | Knowledge / Content | 22 | 3.1% | `markdown`, `wiki`, `documentation` |
 | Mobile / Apple | 13 | 1.8% | `macos`, `apple`, `swift` |
@@ -53,9 +53,9 @@
 
 ## Recent Stars
 
-- [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) — A Tiny biped duck robot 🦆 · `Rust` · ⭐ 8,396 · Starred 2026-09-09 · [homepage](https://pollen-robotics.com/microduck)
+- [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) — A Tiny biped duck robot 🦆 · `Rust` · ⭐ 8,438 · Starred 2026-09-09 · [homepage](https://pollen-robotics.com/microduck)
 - [caiyuchen-ustc/EffOPD](https://github.com/caiyuchen-ustc/EffOPD) — Repository for EffOPD. We are working on polishing the details. · `Python` · ⭐ 77 · Starred 2026-09-06
-- [Thinking-Space/One-Shot-OPD](https://github.com/Thinking-Space/One-Shot-OPD) — Rethinking On-Policy Distillation of Large Language Models II: One Training Example · `Python` · ⭐ 69 · Starred 2026-09-04
+- [Thinking-Space/One-Shot-OPD](https://github.com/Thinking-Space/One-Shot-OPD) — Rethinking On-Policy Distillation of Large Language Models II: One Training Example · `Python` · ⭐ 71 · Starred 2026-09-04
 - [Zanette-Labs/TailRL](https://github.com/Zanette-Labs/TailRL) — codebase for the paper Tail-Likelihood Reinforcement Learning · `Python` · ⭐ 13 · Starred 2026-09-03
 - [facebookresearch/midtraining-distillation](https://github.com/facebookresearch/midtraining-distillation) — Code for our paper: "Knowledge Distillation During Mid-Training Favors Reasoning over Factual Recal… · `Python` · ⭐ 12 · Starred 2026-09-02 · [homepage](https://arxiv.org/abs/2609.01532)
 - [DripNowhy/On-Policy-Self-Adaptation](https://github.com/DripNowhy/On-Policy-Self-Adaptation) — Implementation of "Does On-Policy Distillation Really Distill? From Noisy Teacher to Self-Improveme… · `Python` · ⭐ 49 · Starred 2026-09-02
@@ -68,24 +68,24 @@
 
 ## Popular Repositories
 
-- [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observation… · `Unknown` · ⭐ 213,227 · Starred 2026-03-07
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) — An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintain… · `Rust` · ⭐ 195,252 · Starred 2026-03-31
-- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) — AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to prov… · `Python` · ⭐ 187,368 · Starred 2025-02-23 · Topics: agentic-ai, agents, ai, artificial-intelligence · [homepage](https://agpt.co)
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) — Python tool for converting files and office documents to Markdown. · `Python` · ⭐ 184,435 · Starred 2025-05-10 · Topics: autogen, autogen-extension, langchain, markdown
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) — The context API to search, scrape, and interact with the web at scale. 🔥 · `TypeScript` · ⭐ 180,902 · Starred 2026-04-10 · Topics: ai, ai-agents, ai-crawler, ai-scraping · [homepage](https://firecrawl.dev)
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) — User-friendly AI Interface (Supports Ollama, OpenAI API, ...) · `Python` · ⭐ 152,219 · Starred 2025-05-09 · Topics: ai, llm, llm-ui, llm-webui · [homepage](https://openwebui.com)
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) — The agent engineering platform. · `Python` · ⭐ 146,406 · Starred 2025-03-12 · Topics: agents, ai, ai-agents, anthropic · [homepage](https://docs.langchain.com/langchain/)
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) — FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, … · `Unknown` · ⭐ 143,654 · Starred 2025-05-05 · Topics: ai, bolt, cluely, copilot
-- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) — An AI skill that provides design intelligence for building professional UI/UX across multiple platf… · `Python` · ⭐ 127,938 · Starred 2026-04-15 · Topics: ai-skills, antigravity, claude, claude-code · [homepage](https://www.uupm.cc/)
-- [openai/codex](https://github.com/openai/codex) — Lightweight coding agent that runs in your terminal · `Rust` · ⭐ 124,460 · Starred 2025-05-05
-- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) — Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph.… · `Python` · ⭐ 118,060 · Starred 2026-04-08 · Topics: ai-agents, antigravity, ast, claude-code · [homepage](https://www.graphify.com)
-- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) — A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your projec… · `Unknown` · ⭐ 116,027 · Starred 2026-04-05 · Topics: awesome-list, design-md, design-system, design-tokens · [homepage](https://getdesign.md/)
+- [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observation… · `Unknown` · ⭐ 213,461 · Starred 2026-03-07
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) — An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintain… · `Rust` · ⭐ 195,256 · Starred 2026-03-31
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) — AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to prov… · `Python` · ⭐ 187,394 · Starred 2025-02-23 · Topics: agentic-ai, agents, ai, artificial-intelligence · [homepage](https://agpt.co)
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) — Python tool for converting files and office documents to Markdown. · `Python` · ⭐ 184,843 · Starred 2025-05-10 · Topics: autogen, autogen-extension, langchain, markdown
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) — The web data API to search, scrape, and interact at scale. 🔥 · `TypeScript` · ⭐ 181,330 · Starred 2026-04-10 · Topics: ai, ai-agents, ai-crawler, ai-scraping · [homepage](https://firecrawl.dev)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) — User-friendly AI Interface (Supports Ollama, OpenAI API, ...) · `Python` · ⭐ 152,308 · Starred 2025-05-09 · Topics: ai, llm, llm-ui, llm-webui · [homepage](https://openwebui.com)
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) — The agent engineering platform. · `Python` · ⭐ 146,472 · Starred 2025-03-12 · Topics: agents, ai, ai-agents, anthropic · [homepage](https://docs.langchain.com/langchain/)
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) — FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, … · `Unknown` · ⭐ 143,678 · Starred 2025-05-05 · Topics: ai, bolt, cluely, copilot
+- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) — An AI skill that provides design intelligence for building professional UI/UX across multiple platf… · `Python` · ⭐ 128,214 · Starred 2026-04-15 · Topics: ai-skills, antigravity, claude, claude-code · [homepage](https://www.uupm.cc/)
+- [openai/codex](https://github.com/openai/codex) — Lightweight coding agent that runs in your terminal · `Rust` · ⭐ 124,755 · Starred 2025-05-05
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) — Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph.… · `Python` · ⭐ 118,477 · Starred 2026-04-08 · Topics: ai-agents, antigravity, ast, claude-code · [homepage](https://www.graphify.com)
+- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) — A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your projec… · `Unknown` · ⭐ 116,198 · Starred 2026-04-05 · Topics: awesome-list, design-md, design-system, design-tokens · [homepage](https://getdesign.md/)
 
 ## Language Snapshot
 
 - **Python**: 323
 - **Unknown**: 89
-- **TypeScript**: 75
+- **TypeScript**: 76
 - **Rust**: 36
 - **Jupyter Notebook**: 29
 - **JavaScript**: 28
